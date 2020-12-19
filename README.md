@@ -5,7 +5,7 @@ This project is based around the testing (math and reading) performance of high 
 
 **This project used the following resources:** Pythonic code, Jupyter notebook, csv based resources, and the Pandas software library
 
-**Raw code can be found here:** [Code in Juypter Notebook](https://github.com/AsaHolley/School_District_Analysis/blob/main/Challenge/PyCitySchools_Challenge.ipynb)
+**Raw code can be found here:** [Code in Juypter Notebook](https://github.com/shivam0921/School_District_Analysis/blob/main/Challenge/PyCitySchools_Challenge.ipynb)
 
 
 ## Results ##
@@ -20,17 +20,4 @@ This project is based around the testing (math and reading) performance of high 
   
   ***How does replacing the ninth-grade scores affect the following:**
       
-      * Math and reading scores by grade
-      Removing the 9th graders from Thomas High School and replacing them with "NaN' does not affect the other grades scores and does not change the top or bottom performing schools 
-      
-      * Scores by school spending
-      Removing the 9th graders from Thomas High School and replacing them with "NaN' does not affect scores by school spending.
-      
-      * Scores by school size
-      Removing the 9th graders from Thomas High School and replacing them with "NaN' does not affect scores by school size.
-      
-      * Scores by school type
-      Removing the 9th graders from Thomas High School and replacing them with "NaN' does not affect scores by school type.
-
 ## Summary ##
-While replacing the 9th graders from Thomas High School does not affect the math and reading schools scores by school spending, scores by school size, and scores by school type it does have a significant effect on how Thomas High School performers relative to other schools. Namely it went from being a top performing school to a bottom performing school. It terms of the district wide summary the overall performance of the district does decrease slightly, but it is relatively negligible. The reason for this is likely the size of the 9th grade school being relatively small vs. the overall size of the school district.
