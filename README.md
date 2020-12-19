@@ -5,7 +5,7 @@ This project is based around the testing (math and reading) performance of high 
 
 **This project used the following resources:** Pythonic code, Jupyter notebook, csv based resources, and the Pandas software library
 
-**Raw code can be found here:** [Code in Juypter Notebook](https://github.com/shivam0921/School_District_Analysis/blob/main/Challenge/PyCitySchools_Challenge.ipynb)
+**Raw code can be found here:** [Code in Juypter Notebook](https://github.com/shivam0921/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 
 ## Results ##
