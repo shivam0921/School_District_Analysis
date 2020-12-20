@@ -4,7 +4,7 @@ Analysis is based around the math and reading performance of high school student
 
 **Rsources:** Jupyter notebook, Resources Files (Student and School CSV), Different Packages in Jupyter Notebook (Pandas)
 
-**Code : ** [Code in Juypter Notebook](https://github.com/shivam0921/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+** Code : **  [Code in Juypter Notebook](https://github.com/shivam0921/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 
 ## Results ##
